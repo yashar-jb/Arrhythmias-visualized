@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29605570/README.md)
 # Cardiac Electrophysiology Teaching Tool
 
 A single-file, browser-based teaching tool for cardiac electrophysiology. It visualizes the normal cardiac conduction pathway inside an anatomic-style heart framework and animates how depolarization travels from the sinus node through the atria, AV node, His-Purkinje system, and ventricles. It also shows a simplified vector-cardiography-style net electrical vector and rhythm-specific schematic ECG strips.
