@@ -64,7 +64,7 @@ Note: **Monomorphic** and **polymorphic** are best used for ventricular tachycar
 Download or clone the project, then open the HTML file in any modern browser:
 
 ```text
-heart_ep_teaching_tool.html
+index.html
 ```
 
 No installation is required.
